@@ -1,6 +1,6 @@
 <h1 align="center">Olá, seja bem vindo!! 👋</h1>
 </br>
-Me chamo Lizandra, curso Desenvolvimento Web na Trybe  com foco em Back-End. Sou uma curiosa pelo mundo da tecnologia e fascinada pelo o que ela pode proporcionar.
+Me chamo Lizandra, curso Desenvolvimento Web na Trybe. Sou uma curiosa pelo mundo da tecnologia e fascinada pelo o que ela pode proporcionar.
 </br>
 </br>
 
@@ -23,5 +23,9 @@ Me chamo Lizandra, curso Desenvolvimento Web na Trybe  com foco em Back-End. Sou
 </br>
 </br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lizandra-Debussy&theme=tokyonight&show_icons=true)
-
+<a href="https://github-readme-stats.vercel.app/api?username=Lizandra-Debussy&theme=tokyonight&show_icons=true">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Lizandra-Debussy&theme=tokyonight&show_icons=true" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Lizandra-Debussy&layout=compact&theme=tokyonight">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lizandra-Debussy&layout=compact&theme=tokyonight" />
+</a>
